@@ -1,0 +1,7 @@
+version: '3.7'
+
+services:
+    mail:
+        ports:
+            - 8025:8025 # web ui
+#            - 1025:1025 # smtp
